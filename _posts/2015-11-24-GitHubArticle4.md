@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Java 中的并发
+title: first  page on github
 comments: true
-category: 技术
+category: na
 ---
 <img src="http://7xom53.com1.z0.glb.clouddn.com/github.jpg">dkf</img>
 

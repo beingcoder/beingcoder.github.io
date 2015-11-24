@@ -117,7 +117,7 @@ disqus:
 #################################### global configure #######################################
 
 username: winterbud
-baseurl: "/blogs"
+baseurl: ""
 
 markdown: redcarpet
 safe: false

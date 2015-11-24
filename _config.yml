@@ -46,7 +46,7 @@ timezone:      null
 title: Jekyll Theme
 description: Just another Jekyll theme design and code by zhanxin.info.
 keywords: Jekyll Theme
-url: /winterbud.github.io
+url: /
 
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
@@ -117,7 +117,7 @@ disqus:
 #################################### global configure #######################################
 
 username: winterbud
-baseurl: /winterbud.github.io
+baseurl: /
 
 markdown: redcarpet
 safe: false

@@ -4,7 +4,7 @@ title: Java 中的并发
 comments: true
 category: 技术
 ---
-<img src="http://a.hiphotos.baidu.com/image/pic/item/cb8065380cd791235f313da7ab345982b3b78014.jpg">dkf</img>
+<img src="http://7xom53.com1.z0.glb.clouddn.com/github.jpg">dkf</img>
 
 ## 如何创建一个线程
 

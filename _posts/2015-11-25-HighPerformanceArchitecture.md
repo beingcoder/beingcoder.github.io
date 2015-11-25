@@ -5,8 +5,8 @@ comments: false
 category: 设计
 ---
 #空间换时间: 
-    多级缓存，静态化(反向代理缓存,应用端的缓存(memcache),内存数据库)
-	  索引:哈希、B树、倒排、bitmap
+		多级缓存，静态化(反向代理缓存,应用端的缓存(memcache),内存数据库)
+		索引:哈希、B树、倒排、bitmap
 #并行与分布式计算:
 		1,数据分解,  Map/reduce(利用局部性的原理将海量数据计算的问题分而治之。)
 		2,基于问题分解的, 多进程、多线程并行执行
@@ -25,7 +25,7 @@ category: 设计
 		资源释放,e.g. 在设计通信的架构时，往往需要考虑超时的控制。
 		
 #剖析架构:
-	  CDN:
+		CDN:
 		负载均衡、反向代理缓存,4层(LVS+Keepalived/Heartbeat),7层Nginx,HAProxy,squid
 		会话控制:反向代理或者负载均衡支持session sticky 或者 session的集中式存储
 		业务服务: DDD,参考高内聚、接口收敛的原则;对外协议以NIO的RPC方式得道高并发，netty/mina

@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: 高性能架构设计拾摘
+comments: false
+category: 设计
+---
 #空间换时间: 
     多级缓存，静态化(反向代理缓存,应用端的缓存(memcache),内存数据库)
 	  索引:哈希、B树、倒排、bitmap

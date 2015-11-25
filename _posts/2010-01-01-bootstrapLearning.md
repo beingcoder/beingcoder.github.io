@@ -76,6 +76,7 @@ category: 学习
    data-placement="right" title="右侧的 Tooltip">
    右侧的 Tooltip
 </button>
-<script>
-   $(function () { $("[data-toggle='tooltip']").tooltip(); });
-</script>
+
+    <script>
+    $(function () { $("[data-toggle='tooltip']").tooltip(); });
+    </script>

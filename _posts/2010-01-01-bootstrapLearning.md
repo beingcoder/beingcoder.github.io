@@ -28,8 +28,5 @@ category: 学习
          </div>
          <button type="submit" class="btn btn-default">提交按钮</button>
       </form>    
-      <button type="button" class="btn btn-default navbar-btn">
-         导航栏按钮
-      </button>
    </div>
 </nav>

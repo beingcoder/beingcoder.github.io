@@ -17,3 +17,19 @@ category: 学习
 </ul>
 
 --
+<nav class="navbar navbar-default" role="navigation">
+   <div class="navbar-header">
+      <a class="navbar-brand" href="#">W3Cschool</a>
+   </div>
+   <div>
+      <form class="navbar-form navbar-left" role="search">
+         <div class="form-group">
+            <input type="text" class="form-control" placeholder="Search">
+         </div>
+         <button type="submit" class="btn btn-default">提交按钮</button>
+      </form>    
+      <button type="button" class="btn btn-default navbar-btn">
+         导航栏按钮
+      </button>
+   </div>
+</nav>

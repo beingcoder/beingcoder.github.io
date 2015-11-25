@@ -3,7 +3,7 @@ layout: post
 title: 领域驱动设计-读书笔记
 comments: false
 keywords: 读书,DDD, 领域驱动设计
-category: 设计
+category: 读书
 ---
 #让领域模型发挥作用.              
 

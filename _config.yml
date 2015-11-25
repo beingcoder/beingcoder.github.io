@@ -43,9 +43,9 @@ timezone:      null
 
 
 #Site config
-title: Jekyll Theme
-description: Just another Jekyll theme design and code by zhanxin.info.
-keywords: Jekyll Theme
+title: 码者人生
+description: 码者人生
+keywords: na
 url: ""
 
 feed: /atom.xml
@@ -59,20 +59,20 @@ nav:
     url: navigations/categories.html
   - text: 文章归档
     url: navigations/archives.html
-  - text: 联系我
-    url: navigations/contact.html
-  - text: 友情链接
+#  - text: 联系我
+#    url: navigations/contact.html
+  - text: 其他链接
     url: navigations/links.html
 
 #Author config
 author:
     name: winterbud
-    email: 222@dfl.cg
-    imageLink: https://avatars.githubusercontent.com/winterbud
-    simpleIntro: DD
+    email: na@nowhere.io
+    imageLink: https://avatars.githubusercontent.com/beingcoder
+    simpleIntro: 码者人生
     detailIntro:
-      <p>J。</p>
-      <p>d。</p>
+      <p>身为码人</p>
+      <p>活得跟马似的！</p>
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 follow:

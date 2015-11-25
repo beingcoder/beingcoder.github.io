@@ -92,14 +92,20 @@ follow:
 #Links
 customLinks:
   - item:
-    - text: Jekyll Theme
-      url: http://www.zhanxin.info/themes.html
-    message: Friends
+    - text: Java
+      url: http://www.oracle.com/technetwork/java/javase/tech/index.html
+    - text: Scala
+      url: http://www.scala-lang.org/
+    message: 专注技术
   - item:
     - text: Martin Fowler
       url: http://http://www.martinfowler.com/
-    - text: Clean Coder by Robert C. Martin (Uncle Bob)
+    - text: Clean Coder by Robert C. Martin
       url: http://blog.cleancoder.com/
+    - text: Udi Dahan
+      url: http://udidahan.com/?blog=true
+    - text: Zilverline Blog
+      url: http://blog.zilverline.com/      
     message: 牛人日志
 
 #comment config

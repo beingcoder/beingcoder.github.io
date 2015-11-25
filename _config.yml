@@ -92,10 +92,6 @@ follow:
 #Links
 customLinks:
   - item:
-    - text: 掌心
-      url: http://www.zhanxin.info
-    - text: Jekyll
-      url: http://jekyllrb.com
     - text: Jekyll Theme
       url: http://www.zhanxin.info/themes.html
     message: Friends

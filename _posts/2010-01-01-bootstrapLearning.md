@@ -16,13 +16,13 @@ category: 学习
    <!-- 轮播（Carousel）项目 -->
    <div class="carousel-inner">
       <div class="item active">
-         <img src="thread.png" alt="First slide">
+         <img src="images/thread.png" alt="First slide">
       </div>
       <div class="item">
-         <img src="thread.png" alt="Second slide">
+         <img src="images/thread.png" alt="Second slide">
       </div>
       <div class="item">
-         <img src="thread.png" alt="Third slide">
+         <img src="images/thread.png" alt="Third slide">
       </div>
    </div>
    <!-- 轮播（Carousel）导航 -->

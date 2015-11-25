@@ -96,13 +96,11 @@ customLinks:
       url: http://www.zhanxin.info/themes.html
     message: Friends
   - item:
-    - text: Font Awesome
-      url: http://fortawesome.github.io/Font-Awesome/
-    - text: Google Font
-      url: http://www.google.com/fonts/
-    - text: jQuery
-      url: http://jquery.com/
-    message: 其他相关链接
+    - text: Martin Fowler
+      url: http://http://www.martinfowler.com/
+    - text: Clean Coder by Robert C. Martin (Uncle Bob)
+      url: http://blog.cleancoder.com/
+    message: 牛人日志
 
 #comment config
 disqus:
@@ -118,8 +116,8 @@ baseurl: ""
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 冬虫
-description: 冬虫
+title: 码者
+description: 码者人生
 theme: kunka
 disqusname: winterbud
 

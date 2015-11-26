@@ -3,7 +3,7 @@ layout: post
 title: MarkDown Learning
 comments: false
 keywords: Bootstrap
-categories: 学习,MarkDown
+categories: [milk, pumpkin pie, eggs, juice]
 ---
 #MarkDown示例
 {{ site.time}}

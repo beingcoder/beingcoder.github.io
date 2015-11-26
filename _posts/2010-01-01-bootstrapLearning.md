@@ -31,52 +31,12 @@ categories: 学习,技术
    </div>
 </nav>
 666
-<h4>工具提示（Tooltip）插件 - 锚</h4>
-这是一个 <a href="#" class="tooltip-test" data-toggle="tooltip" 
-   title="默认的 Tooltip">
-   默认的 Tooltip
-</a>.
-这是一个 <a href="#" class="tooltip-test" data-toggle="tooltip" 
-   data-placement="left" title="左侧的 Tooltip">
-   左侧的 Tooltip
-</a>.
-这是一个 <a href="#" data-toggle="tooltip" data-placement="top" 
-   title="顶部的 Tooltip">
-   顶部的 Tooltip
-</a>.
-这是一个 <a href="#" data-toggle="tooltip" data-placement="bottom" 
-   title="底部的 Tooltip">
-   底部的 Tooltip
-</a>.
-这是一个 <a href="#" data-toggle="tooltip" data-placement="right" 
-   title="右侧的 Tooltip">
-   右侧的 Tooltip
-</a>
-
-<br>
-
-<h4>工具提示（Tooltip）插件 - 按钮</h4>
-<button type="button" class="btn btn-default" data-toggle="tooltip" 
-   title="默认的 Tooltip">
-   默认的 Tooltip
-</button>
-<button type="button" class="btn btn-default" data-toggle="tooltip" 
-   data-placement="left" title="左侧的 Tooltip">
-   左侧的 Tooltip
-</button>
-<button type="button" class="btn btn-default" data-toggle="tooltip" 
-   data-placement="top" title="顶部的 Tooltip">
-   顶部的 Tooltip
-</button>
-<button type="button" class="btn btn-default" data-toggle="tooltip" 
-   data-placement="bottom" title="底部的 Tooltip">
-   底部的 Tooltip
-</button>
-<button type="button" class="btn btn-default" data-toggle="tooltip" 
-   data-placement="right" title="右侧的 Tooltip">
-   右侧的 Tooltip
-</button>
-
-<script>
-  $(function () { $("[data-toggle='tooltip']").tooltip(); });
-</script>
+{% highlight ruby linenos %}
+def show
+  @widget = Widget(params[:id])
+  respond_to do |format|
+    format.html # show.html.erb
+    format.json { render json: @widget }
+  end
+end
+{% endhighlight %}

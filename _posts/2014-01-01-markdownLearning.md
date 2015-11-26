@@ -3,7 +3,7 @@ layout: post
 title: MarkDown Learning
 comments: false
 keywords: Bootstrap
-category: 学习
+categories: 学习,MarkDown
 ---
 #MarkDown示例
 {{ site.time}}

@@ -3,7 +3,9 @@ layout: post
 title: MarkDown Learning
 comments: false
 keywords: Bootstrap
-categories: [milk, pumpkin pie, eggs, juice]
+categories: 
+-   abc
+-   bcd
 ---
 #MarkDown示例
 {{ site.time}}

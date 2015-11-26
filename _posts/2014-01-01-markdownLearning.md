@@ -19,10 +19,11 @@ Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 > Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
 id sem consectetuer libero luctus adipiscing.
 
-列表
+列表   
 -   Red
 -   Green
 -   Blue
+
 有序列表则使用数字接着一个英文句点：
 
 1.  Bird

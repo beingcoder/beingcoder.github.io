@@ -3,7 +3,7 @@ layout: post
 title: Bootstrap Learning
 comments: false
 keywords: Bootstrap
-category: 学习,技术
+categories: 学习,技术
 ---
 #轮播示例
 <ul class="pagination">

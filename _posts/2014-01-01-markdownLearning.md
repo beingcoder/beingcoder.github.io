@@ -20,12 +20,12 @@ Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 id sem consectetuer libero luctus adipiscing.
 
 列表   
--Red
--Green
--Blue
+- Red
+- Green
+- Blue
 
 有序列表则使用数字接着一个英文句点：
 
-1.Bird
-2.McHale
-3.Parish
+1. Bird
+2. McHale
+3. Parish

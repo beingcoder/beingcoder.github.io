@@ -6,8 +6,8 @@ keywords: Bootstrap
 category: 学习
 ---
 #MarkDown示例
-{{ site.time | date_to_xmlschema }}
-
+{{ site.time}}
+{{ site.author.email}}
 
 一个 Markdown 段落是由一个或多个连续的文本行组成，   
 它的前后要有一个以上的空行（空行的定义是显示上看起来像是空的，便会被视为空行。

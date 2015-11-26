@@ -19,13 +19,6 @@ Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 > Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
 id sem consectetuer libero luctus adipiscing.
 
-列表   
-- Red
-- Green
-- Blue
+这是一个普通段落：
 
-有序列表则使用数字接着一个英文句点：
-
-1. Bird
-2. McHale
-3. Parish
+    这是一个代码区块。

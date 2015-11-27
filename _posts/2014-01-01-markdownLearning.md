@@ -47,7 +47,7 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
 \\[ \frac{1}{n^{2}} \\]
 
-<i class="fa fa-spinner fa-spin"></i>df
+<i class="fa fa-spinner fa-spin fa-15x"></i>df
 <i class="fa fa-circle-o-notch fa-spin"></i>df
 <i class="fa fa-refresh fa-spin"></i>df
 <i class="fa fa-cog fa-spin"></i>dfd

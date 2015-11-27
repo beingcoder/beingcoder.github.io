@@ -120,7 +120,7 @@ disqus:
 username: winterbud
 baseurl: ""
 
-markdown: redcarpet
+#markdown: redcarpet
 safe: false
 highlighter: pygments
 title: 码者

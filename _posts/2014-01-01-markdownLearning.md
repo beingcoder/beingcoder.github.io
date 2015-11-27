@@ -41,7 +41,7 @@ $$a^2 + b^2 = c^2$$
 
 使用\\[\alpha+\beta\geq\frac12\\]输出行间公式公式：
 
-When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
+When $$a \ne 0$$, there are two solutions to \\(ax^2 + bx + c = 0\\) and they are
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 

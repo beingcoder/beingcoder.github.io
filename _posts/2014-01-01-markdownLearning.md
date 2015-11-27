@@ -85,3 +85,5 @@ Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block
     <li><a href="#"><i class="i"></i> Make admin</a></li>
   </ul>
 </div>
+==========
+$$ \mathbf{X}\_{n,p} = \mathbf{A}\_{n,k} \mathbf{B}\_{k,p} $$

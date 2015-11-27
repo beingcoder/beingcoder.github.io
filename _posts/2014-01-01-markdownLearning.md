@@ -47,6 +47,8 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
 \\[ \frac{1}{n^{2}} \\]
 
+\\[J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha}\\]
+
 <a class="btn btn-danger" href="#">
   <i class="fa fa-trash-o fa-lg"></i> Delete</a>
 <a class="btn btn-default btn-sm" href="#">

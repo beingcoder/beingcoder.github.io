@@ -66,7 +66,7 @@ Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block
 
 <div class="input-group margin-bottom-sm">
   <span class="input-group-addon"><i class="fa fa-envelope-o fa-fw"></i></span>
-  <input class="form-control" type="text" placeholder="Email address">
+  <input class="form-control" type="email" placeholder="Email address">
 </div>
 <div class="input-group">
   <span class="input-group-addon"><i class="fa fa-key fa-fw"></i></span>

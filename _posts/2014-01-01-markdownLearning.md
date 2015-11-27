@@ -37,7 +37,8 @@ $$a^2 + b^2 = c^2$$
 
     这是一个代码区块。
 
-使用\\(\alpha+\beta\geq\frac12\\)输出行内公式
+使用\\(\alpha+\beta\\)输出行内公式
+
 使用\\[\alpha+\beta\geq\frac12\\]输出行间公式公式：
 
 When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are

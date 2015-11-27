@@ -49,6 +49,6 @@ Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block
 
 <i class="fa fa-spinner fa-spin fa-15x"></i>df
 <i class="fa fa-circle-o-notch fa-spin"></i>df
-<i class="fa fa-refresh fa-spin"></i>df
+<i class="fa fa-refresh fa-spin fa-3x"></i>df
 <i class="fa fa-cog fa-spin"></i>dfd
 <i class="fa fa-spinner fa-pulse fa-5x"></i>dff

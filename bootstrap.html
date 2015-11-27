@@ -5,6 +5,9 @@
    <link href="/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
    <script src="/jquery/1.11.3/jquery.min.js"></script>
    <script src="/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+   
+   <link href="/toc/toc.css" rel="stylesheet">
+   <script src="/toc/toc.js"></script>
    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 </head>
@@ -17,7 +20,14 @@ $$a^2 + b^2 = c^2$$
 
 Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
 \\[ \frac{1}{n^{2}} \\]
-
+<div id="main_content">
+<h1>title</h1>
+<h2>subtitle11</h2>
+<h2>subtitle12</h2>
+<h1>title2</h1>
+<h2>subtitle21</h2>
+<h2>subtitle22</h2>
+</div>
 <blockquote>
 <p>This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
 consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
@@ -26,6 +36,11 @@ Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.</p>
 <p>Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
 id sem consectetuer libero luctus adipiscing</p>
 </blockquote>
-
+<div>
+   
+   $('#main_content').toc({
+    showAlways:true
+});
+</div>
 </body>
 </html>			

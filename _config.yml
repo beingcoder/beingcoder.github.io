@@ -112,12 +112,12 @@ customLinks:
 #comment config
 disqus:
   config: false
-  id: winterbud2
+  id: winterbud
 
 
 #################################### global configure #######################################
 
-username: winterbud
+username: beingcoder
 baseurl: ""
 
 markdown: redcarpet

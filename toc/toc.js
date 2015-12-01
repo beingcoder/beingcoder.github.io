@@ -1,5 +1,5 @@
 /*
- * 2jQuery Table of Content Generator for Markdown v1.0
+ * 122jQuery Table of Content Generator for Markdown v1.0
  *
  * https://github.com/dafi/tocmd-generator
  * Examples and documentation at: https://github.com/dafi/tocmd-generator

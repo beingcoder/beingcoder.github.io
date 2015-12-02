@@ -94,3 +94,5 @@ This is [an example](http://example.com/ "Title") inline link.
   [3]: http://search.msn.com/    "MSN Search"
   
   ``There is a literal backtick (`) here.``hello world
+  
+  <address@example.com>

@@ -4,14 +4,12 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<title>Table of Contents jQuery Plugin: Example 1</title>
-	<link rel="stylesheet" href="/toc2/layout.css" type="text/css" media="screen" title="no title" charset="utf-8">
+	<link rel="stylesheet" href="/tocmd/toc.css" type="text/css" media="screen" title="no title" charset="utf-8">
 	
 
-	<script src="/toc2/toc.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/tocmd/toc.js" type="text/javascript" charset="utf-8"></script>
 		  <script src="/jquery/1.11.3/jquery.min.js"></script>
-	<script type="text/javascript" charset="utf-8">
-		$(document).ready(function(){ $("#toc").tableOfContents(); });
-	</script>
+
 </head>
 
 <body>
@@ -27,7 +25,7 @@
 &lt;/script&gt;</pre>
 	</div>
 	<div id="wrapper">
-		<ul id="toc"></ul>
+		
 		<h1>Sample Content Article Header</h1>
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada aliquam aliquam. Nullam ac tincidunt lectus. Donec tortor enim, dictum nec fringilla et, sodales vel ligula. Fusce ac lacus tortor. Aenean varius, purus eu convallis tristique, tortor ante condimentum nisl, nec vestibulum tortor purus facilisis nisl. Nullam mollis blandit orci, sed dictum risus dignissim et.</p>
 		
@@ -81,6 +79,13 @@
 	</div>
 	<div id="footer">
 		&copy; 2009 by <a href="http://pixelgraphics.us">Doug Neiner</a>. Open sourced under the MIT license.
+	</div>
+	
+	<div>
+	$('#wrapper').toc({
+    showAlways:true
+});	
+		
 	</div>
 </body>
 </html>
